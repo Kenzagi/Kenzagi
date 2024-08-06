@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sphamandla Gumede.
 - 👀 I’m interested in software, technology, gaming and architecture.
-- 🌱 I’m currently learning React and web design.
+- 🌱 I’m currently learning React, Framer and Web design.
 - 💞️ I’m looking to collaborate on mainly web design and development projects, but I am also available for any software development opportunity within my spectrum.
 - 📫 Visit my portfolio https://spha.vercel.app.
 - 📫 My email is sphamandlajunior31@gmail.com.
