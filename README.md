@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Sphamandla Gumede.
-- 👀 I’m interested in software, technology, gaming and architecture.
-- 🌱 I’m currently learning React, Framer and Web design.
-- 💞️ I’m looking to collaborate on mainly web design and development projects, but I am also available for any software development opportunity within my spectrum.
+- 👋 Hi, I’m Sphamandla Gumede, a SOFTWARE DEVELOPER & WEB DESIGNER.
+- 👀 I’m interested in software, technology, gaming, design and architecture.
+- 🌱 Currently, I am upskilling on Front-End development, Web design and AI technologies.
+- 💞️ Linkedin Profile: https://www.linkedin.com/in/sphamandlagumede
 - 📫 Visit my portfolio https://spha.vercel.app.
-- 📫 My email is sphamandlajunior31@gmail.com.
-- 📫 Linkedin Profile: https://www.linkedin.com/in/sphamandlagumede
-- 📫 Phone No.: 061 462 9652.
-
-<!---
-Kenzagi/Kenzagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Email: sphamandlajunior31@gmail.com.
+- 📫 Phone: 061 462 9652.
